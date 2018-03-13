@@ -1,1 +1,3 @@
 # node-hangman-game
+
+This node application is a hangman command-line game that includes two constructor functions [new Letter(letter)](https://github.com/Kdotnet2017/node-hangman-game/blob/master/letter.js) and [new Word(word)](https://github.com/Kdotnet2017/node-hangman-game/blob/master/word.js) with two main functions [startHangman()](https://github.com/Kdotnet2017/node-hangman-game/blob/master/index.js) and [processHangman(resultMessage)](https://github.com/Kdotnet2017/node-hangman-game/blob/master/index.js) that create the logic for the course of the game in [index.js](https://github.com/Kdotnet2017/node-hangman-game/blob/master/index.js) file which is start point of the game.
